@@ -42,18 +42,6 @@
     margin: 30px 40px;
 }
 
-.img-clear{
-    clear: both;
-}
-
-.img-left{
-    float: left;
-}
-
-.img-right{
-   float: right;
-}
-
 .content__gallery__item6 {
     border: 4px double purple;
     margin: 20px;
@@ -127,7 +115,7 @@
     left: 50%;
 }
 
-.content__conclusion__img{
+.content__conclusion__img {
     width: 70%;
     height: auto;
 }
